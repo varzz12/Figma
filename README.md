@@ -29,6 +29,7 @@ Publish the website in the given URL.
 Figma
 
 # CODE:
+~~~
 figma.html
 
 <!DOCTYPE html>
@@ -258,6 +259,7 @@ last.html
   </div>
 </body>
 </html>
+~~~
 # OUTPUT:
 <img width="547" height="816" alt="image" src="https://github.com/user-attachments/assets/ba113518-7894-4d05-b29b-b579267a3bd4" />
 <img width="510" height="813" alt="image" src="https://github.com/user-attachments/assets/aaad29c1-6094-4950-af09-c840011141e9" />
